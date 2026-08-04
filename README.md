@@ -43,5 +43,8 @@
 <br/>
 
 ## 💡 Recent Projects
+- [**Spotify Music Clustering Analysis**](https://github.com/Shocktra/spotify-clustering-analysis) - 🎵 Unsupervised Machine Learning (K-Means & PCA) to cluster songs based on audio features.
+- [**Market Predictor - Time Series Analysis**](https://github.com/Shocktra/market-predictor-time-series) - 📈 Stock market price prediction using historical data and Linear Regression.
+- [**Sentiment Analysis on Movie Reviews**](https://github.com/Shocktra/sentiment-analysis-reviews) - 🎭 NLP model using TF-IDF and Naive Bayes to classify text sentiment.
 - [**GitHub Habits Analyzer**](https://github.com/Shocktra/github-habits-analyzer) - A React app to analyze your GitHub activity and language distribution.
 - [**Personal Finance Dashboard**](https://github.com/Shocktra/personal-finance-dashboard) - A modern, secure CSV parser and dashboard for financial analytics.
