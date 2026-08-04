@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Rıfat! 👋</h1>
-  <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Student+at+IYTE;Software+Developer;Passionate+about+Data;Always+Learning" alt="Typing SVG" /></a></h3>
+  <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Data+Scientist;Computer+Engineering+@+IZTECH;Full-Stack+Developer;Always+Learning" alt="Typing SVG" /></a></h3>
   
   <br/>
   
@@ -11,18 +11,25 @@
 <br/>
 
 ## 🚀 About Me
-- 🔭 I’m currently a student at **Izmir Institute of Technology (IYTE)**
-- 💻 I love building web applications, data dashboards, and exploring modern technologies.
-- 📫 How to reach me: **rifatsolak@std.iyte.edu.tr**
-- ⚡ Fun fact: I build awesome agentic-driven applications!
+- 🔭 I’m currently a **Computer Engineering 2nd Grade** student at **IZTECH**.
+- 💻 I'm passionate about **Data Science**, Machine Learning, and building intelligent web applications.
+- 🤝 Let's connect on **[LinkedIn](https://www.linkedin.com/in/rifat-gürer-solak-246b35398/)**!
+- 📫 Or reach me via email: **rifatsolak@std.iyte.edu.tr**
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 <div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 <br/>
