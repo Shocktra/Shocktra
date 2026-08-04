@@ -48,3 +48,4 @@
 - [**Sentiment Analysis on Movie Reviews**](https://github.com/Shocktra/sentiment-analysis-reviews) - 🎭 NLP model using TF-IDF and Naive Bayes to classify text sentiment.
 - [**GitHub Habits Analyzer**](https://github.com/Shocktra/github-habits-analyzer) - A React app to analyze your GitHub activity and language distribution.
 - [**Personal Finance Dashboard**](https://github.com/Shocktra/personal-finance-dashboard) - A modern, secure CSV parser and dashboard for financial analytics.
+- [**Teyvat Optimizer (Genshin)**](https://github.com/Shocktra/genshin-optimizer) - ⚔️ A React/Vite application to calculate optimal stats, weapons, and artifacts for all 128 characters using the Enka.Network API.
